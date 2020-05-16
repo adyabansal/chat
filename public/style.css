@@ -1,0 +1,16 @@
+#loginBox{
+    background-color: aquamarine;
+    padding: 20px;
+    border: black;
+}
+
+#chatBox{
+    background-color: lightslategray;
+    padding: 20px;
+    border: black
+}
+
+#ulMsgs{
+    background-color: lightcyan;
+    padding: 20px;
+}
